@@ -34,11 +34,11 @@ The **Redacted Request Extension** is a powerful tool designed to enhance the se
 
 ## Version Information
 
-This is version 1.0 of the Redacted Request Extension.
+This is version 1.1 of the Redacted Request Extension.
 
 ## Copyright Notice
 
-© 2023 OME MISHRA. All rights reserved. Unauthorized copying or distribution of this extension's code is strictly prohibited by law.
+© 2024 OME MISHRA. All rights reserved. Unauthorized copying or distribution of this extension's code is strictly prohibited by law.
 
 ## Disclaimer
 
